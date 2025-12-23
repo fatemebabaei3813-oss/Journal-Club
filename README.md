@@ -1,8 +1,4 @@
 # Journal-Club
-# 📚 Journal Club: An Overview of Supervised Machine Learning Methods  
-*(Nastetski, 2020)*
-
-This repository contains materials from a **Journal Club presentation** on the paper:
 
 ### 📁 Files in this Repository:
 - [`Anoverviewofthesupervisedmachinelearning...pdf`](Anoverviewofthesupervisedmachinelearning...pdf) — Original research paper  
