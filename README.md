@@ -1,7 +1,7 @@
 # Journal-Club
 
 ### 📁 Files in this Repository:
-- [`Anoverviewofthesupervisedmachinelearning...pdf`](Anoverviewofthesupervisedmachinelearning...pdf) — Original research paper  
+- [`Anoverviewofthesupervisedmachinelearning...pdf`](AnoverviewofthesupervisedmachinelearningalgorithmsREFERENCE (1).pdf) — Original research paper  
 - [`Presentation file.pdf`](Presentation%20file.pdf) — Slides used in the journal club session *(→ Use this for LinkedIn embed!)*  
 - [`README.md`](README.md) — This document
 
