@@ -2,7 +2,7 @@
 
 ### 📁 Files in this Repository:
 - [`AnoverviewofthesupervisedmachinelearningalgorithmsREFERENCE.pdf`](AnoverviewofthesupervisedmachinelearningalgorithmsREFERENCE.pdf) — Original research paper  
-- [`Presentation file.pdf`](Presentation%20file.pdf) — Slides used in the journal club session *(→ Use this for LinkedIn embed!)*  
+- [`Presentation file.pdf`](Presentation%20file.pdf) — Slides used in the journal club session  
 - [`README.md`](README.md) — This document
 
 ---
@@ -27,7 +27,6 @@ You can:
 To share the **presentation slides** on LinkedIn with embedded preview:
 1. Go to:  
    [https://fatemebabaei3813-oss.github.io/Journal-Club/Presentation%20file.pdf](https://fatemebabaei3813-oss.github.io/Journal-Club/Presentation%20file.pdf)  
-   *(✅ This is your GitHub Pages link — copy it!)*  
 2. In LinkedIn post → Click **📎 Attach** → Choose **Link**  
 3. Paste the link → Wait for preview → Post!
 
